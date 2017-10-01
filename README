@@ -1,0 +1,20 @@
+Project Name: Wikipedia Viewer
+Project Source: https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer
+
+Process:
+-> Requirements to be broken down into user stories in the following format:
+*As a* [type of user],
+*I want to* [describe what needs to be achieved]
+*So I can* [describe end goal of the task]
+
+-> Acceptance Criteria to be defined for each user story that will be a prerequisite for marking the user story as 'Completed/Closed'.
+
+->Each user story to be assigned to one or more team members for development.
+
+-> Each user story to be developed as a separate branch from the master branch.
+
+->A different team member(s) to be assigned for reviewing the code for each user story.
+
+-> Post successful peer review and meeting of acceptance criteria a pull request to be raised.
+
+-> Merging of the branch to the master branch
